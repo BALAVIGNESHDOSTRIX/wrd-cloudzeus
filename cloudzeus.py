@@ -1,6 +1,5 @@
 import eel 
 from wordcloud import WordCloud
-import matplotlib.pyplot as plt
 from PIL import Image
 import base64
 import io 
