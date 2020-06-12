@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,700|Montserrat:400,500,700');
+@import 'css/bootstrap.min.css';
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    background-color: #fff;
+    background-image: url(img/bg-img/welcome-bg.png);
+    overflow: hidden;
+}
+
+#textcloud{
+    width: 400px;
+    height: 351px;
+    margin-top: 100px;
+    margin-left: 80px;
+    overflow-y: auto;
+}
+
+#cldimg{
+    width: 400px;
+    height: 351px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+#makecldbut{
+    margin-top: 20px;
+    margin-left: 180px;
+    cursor: pointer;
+    width:200px;
+    height: 40px;
+}
+
+.icon-container{
+    width: 100px;
+    display: flex;
+    height: 100px;
+    margin-left: 270px;
+}
+
+.ic_img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.icon-container img{
+    cursor: pointer;
+    transition: 0.3s;
+}
