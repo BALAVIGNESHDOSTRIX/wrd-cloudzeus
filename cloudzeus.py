@@ -2,10 +2,8 @@ import eel
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from PIL import Image
-import numpy as np
 import base64
 import io 
-import urllib
 
 def plot_wordcloud(data):
     wc = WordCloud(background_color='black')
