@@ -1,7 +1,5 @@
 # wrd-cloudzeus
-Python GUI Development
-
-# App UI
+  Python GUI Development
 
 # Installation Steps:
   1. clone repository: git clone https://github.com/BALAVIGNESHDOSTRIX/wrd-cloudzeus.git
@@ -9,5 +7,7 @@ Python GUI Development
  
 # Run 
   python3 cloudzeus.py
+
+# App UI
 
 ![alt text](/screens/cloudzeus.png)
